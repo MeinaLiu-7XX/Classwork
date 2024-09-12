@@ -1,1 +1,8 @@
-
+public class Art {
+  public static void main(string[] args) {
+    system.out.println("   /)____   ")
+    system.out.println("  /      0|___ ")
+    system.out.println(" /             ) ")
+    system.out.println("/        )____/ ")
+  }
+}
