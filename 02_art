@@ -1,5 +1,5 @@
 public class Art {
-  public static void main(string[] args) {
+  public static void main(String[] args) {
     System.out.println("   /)____   ");
     System.out.println("  /      0|___ ");
     System.out.println(" /             ) ");
